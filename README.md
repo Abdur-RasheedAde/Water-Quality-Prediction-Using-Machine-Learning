@@ -61,6 +61,10 @@ Each model was evaluated using:
 - **Key Features**: [e.g., Organic Carbon, Conductivity, Sulfate]
 - **Prediction Output**: CSV file with predicted potability for unseen data
 
+## 👨‍🔬 About Me
+
+I'm **Abdur-Rasheed Abiodun Adeoye**, a data scientist with a strong interest in applying AI to biological and environmental challenges. This is part of my portfolio for in **Bioinformatics**.
+
 ## 📎 How to Run
 
 ```bash
@@ -71,7 +75,5 @@ cd water-quality-ml
 # Run the Python script
 python Water_Quality_DS_Project.py
 
-## 👨‍🔬 About Me
 
-I'm **Abdur-Rasheed Abiodun Adeoye**, a data scientist with a strong interest in applying AI to biological and environmental challenges. This is part of my portfolio for in **Bioinformatics**.
 
